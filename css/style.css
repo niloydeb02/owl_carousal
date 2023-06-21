@@ -1,0 +1,107 @@
+#text1
+{
+    overflow:         hidden;
+    color:            #ECF0F1;
+    background-color: #2980B9 ;
+}
+
+.wow:first-child {
+      visibility: hidden;
+    }
+
+/*load more*/
+h1 {
+  font-size:     72px;
+  line-height:   1.5;
+  color: #2c3e50;
+  font-weight:   100;
+}
+
+
+
+section {
+  height: 700px;
+  margin: 60px 0;
+}
+
+.section--purple {
+ background-color: #9b59b6;
+}
+
+
+
+#main {
+  text-align: center;
+}
+
+#more {
+  margin: 20px auto 48px;
+}
+
+
+/*paralux*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.t_par {
+
+}
+.t_par h2{
+     padding: 115px;
+
+}
+
+#port {
+background: rgb(47, 49, 52);
+margin: 1.5em 0px;
+overflow: hidden;
+position: relative;
+height: 300px;
+}
+
+.h_text{
+      
+    left: 68px !important;
+    top: -21px !important;
+    
+
+}
+
+.h_div{
+    background-color: #3757d0;
+    background-image: -webkit-radial-gradient(#81bcff, #303391);
+    background-image: radial-gradient(#81bcff, #303391);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 25px;
+    line-height: 31px;
+    color: rgb(73, 72, 100);
+}  
+
+
+h1 {
+    font-style: normal;
+    font-size: 125px;
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1 span {
+    display: inline-block;
+}  
+
+#port {
+background: rgb(47, 49, 52);
+margin: 1.5em 0px;
+overflow: hidden;
+position: relative;
+height: 300px;
+}
+
+.bg_pic{
+    overflow: hidden;
+}
+.item img{
+    width: 100% !important;
+}
